@@ -1,2 +1,8 @@
 # odin-recipes
-A basic recipe website
+
+## Basic Recipe Website
+
+A basic recipe website template built using:
+
+- HTML
+- CSS
